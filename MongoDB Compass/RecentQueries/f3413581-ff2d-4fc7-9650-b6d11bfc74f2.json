@@ -1,0 +1,1 @@
+{"_id":"f3413581-ff2d-4fc7-9650-b6d11bfc74f2","filter":{"idProgression":{"$exists":true}},"_lastExecuted":{"$date":"2021-08-04T19:34:32.810Z"},"_ns":"healthcommons.causes"}

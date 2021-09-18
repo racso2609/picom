@@ -1,0 +1,7 @@
+[2021-08-03 10:52:45.276] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2021-08-03 10:52:47.970] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /home/racso/.config/Code/CachedExtensionVSIXs/donjayamanne.githistory-0.6.18
+[2021-08-03 10:52:48.212] [sharedprocess] [info] Extracted extension to /home/racso/.vscode/extensions/.fb3780a3-6637-41fc-a68e-a075fb238627: donjayamanne.githistory
+[2021-08-03 10:52:48.225] [sharedprocess] [info] Renamed to /home/racso/.vscode/extensions/donjayamanne.githistory-0.6.18
+[2021-08-03 10:52:48.228] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2021-08-03 10:52:48.244] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
+[2021-08-03 10:52:50.313] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
