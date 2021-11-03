@@ -1,1 +1,0 @@
-{"_id":"5afa09cf-c89c-4c22-b92e-236e3c4036ce","filter":{"venueId":{"$exists":true}},"_lastExecuted":{"$date":"2021-08-05T12:36:59.521Z"},"_ns":"eventbox.users"}

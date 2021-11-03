@@ -1,5 +1,0 @@
-2021/08/02-16:34:03.589 f9f Reusing MANIFEST /home/racso/.config/Postman/Partitions/42b7af55-ab18-4085-966a-3ea74d09e755/Local Storage/leveldb/MANIFEST-000001
-2021/08/02-16:34:03.589 f9f Recovering log #3
-2021/08/02-16:34:03.590 f9f Level-0 table #3: started
-2021/08/02-16:34:03.594 f9f Level-0 table #3: 22928 bytes OK
-2021/08/02-16:34:03.599 f9f Delete type=0 #3

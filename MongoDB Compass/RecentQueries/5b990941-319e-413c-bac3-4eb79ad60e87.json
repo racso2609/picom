@@ -1,1 +1,0 @@
-{"_id":"5b990941-319e-413c-bac3-4eb79ad60e87","filter":{"productName":{"$exists":false}},"_lastExecuted":{"$date":"2021-08-07T21:46:09.232Z"},"_ns":"healthcommons.resources"}
